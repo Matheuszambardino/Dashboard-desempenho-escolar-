@@ -92,5 +92,7 @@ O painel disponibiliza filtros superiores interativos que permitem segmentar tod
  ┃  ┗ 📜 média de acertos gerais da turma.png
  ┣ 📜 dashboard_desempenho.pbix  # Arquivo principal do Power BI
  ┗ 📜 README.md          # Documentação detalhada do projeto
----
-##
+```
+> **Nota sobre Privacidade:** Todos os dados expostos foram anonimizados para preservar a privacidade de estudantes e da instituição.
+> 
+> **Portfólio de Análise de Dados:** Projeto desenvolvido para demonstrar habilidades em Power BI, modelagem de dados e criação de indicadores pedagógicos.
