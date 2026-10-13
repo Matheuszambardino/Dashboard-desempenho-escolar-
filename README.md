@@ -63,7 +63,7 @@ O painel disponibiliza filtros superiores interativos que permitem segmentar tod
 
 | Visão Geral do Dashboard | Evolução por Disciplina e Bimestre |
 | :---: | :---: |
-| ![Visão geral do dashboard](Imagens/dashboard completo.png) | ![Média de acertos por disciplina e bimestre](Imagens/Média de acertos de cada disciplina por bimestre.png) |
+| ![Visão geral do dashboard](Imagens/Média de acertos de cada disciplina por bimestre.png) | ![Média de acertos por disciplina e bimestre](Imagens/Média de acertos de cada disciplina por bimestre.png) |
 | *Painel principal com KPIs, filtros e visuais consolidados.* | *Análise temporal de tendências por disciplina.* |
 
 | Distribuição por Disciplina e Turma | Média Geral por Turma |
