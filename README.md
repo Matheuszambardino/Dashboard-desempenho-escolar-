@@ -1,7 +1,7 @@
 # Dashboard de Desempenho Escolar | Power BI
 
 ## 1. Apresentação e Contexto do Problema Analisado
-Este projeto apresenta um **Dashboard de Desempenho Escolar** desenvolvido no **Microsoft Power BI**, projetado para monitorar, consolidar e apoiar a gestão pedagógica de indicadores educacionais. O painel centraliza métricas críticas de aprendizagem escolar, permitindo o acompanhamento do progresso dos estudantes ao longo dos bimestres letivos, a identificação de tendências por disciplina e a avaliação do rendimento segmentado por turmas.
+Este projeto apresenta um **Dashboard de Desempenho Escolar** desenvolvido no **Microsoft Power BI**, projetado para monitorar, consolidar e apoiar a gestão pedagógica de indicadores educacionais[...]
 
 ---
 
@@ -34,11 +34,11 @@ O painel exibe cartões e indicadores de desempenho (KPIs) estruturados para uma
 
 ## 5. Gráficos e Visualizações
 * **Média de Acertos por Nº Bimestre e Disciplina (Gráfico de Linhas / Tendência):** 
-  * *O que responde:* Como cada disciplina (BIO, FILO, FIN, FÍS, GEO, HIST, ING, MAT, PORT, QUI, SOC) evoluiu ao longo dos bimestres 1, 2 e 3. Permite identificar picos de desempenho e quedas acentuadas em matérias específicas.
+  * *O que responde:* Como cada disciplina (BIO, FILO, FIN, FÍS, GEO, HIST, ING, MAT, PORT, QUI, SOC) evoluiu ao longo dos bimestres 1, 2 e 3. Permite identificar picos de desempenho e quedas acentua[...]
 * **Média de Acertos por Disciplina e Bimestre (Gráfico de Colunas Empilhadas):**
-  * *O que responde:* A distribuição proporcional dos resultados por disciplina segmentada pelas cores correspondentes aos bimestres, detalhando a participação de cada ciclo no consolidado da matéria.
+  * *O que responde:* A distribuição proporcional dos resultados por disciplina segmentada pelas cores correspondentes aos bimestres, detalhando a participação de cada ciclo no consolidado da [...]
 * **Média Geral da Disciplina por Turma (Gráfico de Barras Horizontais):**
-  * *O que responde:* O ranking e a comparação do desempenho médio geral entre as diferentes turmas da instituição (como turmas de Administração, Logística e Séries Integradas do Ensino Médio).
+  * *O que responde:* O ranking e a comparação do desempenho médio geral entre as diferentes turmas da instituição (como turmas de Administração, Logística e Séries Integradas do Ensino Médi[...] 
 
 ---
 
@@ -63,12 +63,12 @@ O painel disponibiliza filtros superiores interativos que permitem segmentar tod
 
 | Visão Geral do Dashboard | Evolução por Disciplina e Bimestre |
 | :---: | :---: |
-| ![Visão geral do dashboard](imagens/dashboard completo.png) | ![Média de acertos por disciplina e bimestre](imagens/Média de acertos de cada disciplina por bimestre.png) |
+| ![Visão geral do dashboard](Imagens/dashboard completo.png) | ![Média de acertos por disciplina e bimestre](Imagens/Média de acertos de cada disciplina por bimestre.png) |
 | *Painel principal com KPIs, filtros e visuais consolidados.* | *Análise temporal de tendências por disciplina.* |
 
 | Distribuição por Disciplina e Turma | Média Geral por Turma |
 | :---: | :---: |
-| ![Média de acertos por disciplina e turma](imagens/Média de acertos de cada disciplina por turma.png) | ![Média geral da turma](imagens/média de acertos gerais da turma.png) |
+| ![Média de acertos por disciplina e turma](Imagens/Média de acertos de cada disciplina por turma.png) | ![Média geral da turma](Imagens/média de acertos gerais da turma.png) |
 | *Detalhamento por componente curricular.* | *Ranking de desempenho por turma.* |
 
 ---
@@ -85,13 +85,14 @@ O painel disponibiliza filtros superiores interativos que permitem segmentar tod
 ```text
 📦 dashboard-desempenho-escolar
  ┣ 📂 dados              # Arquivos de dados brutos ou tratados (ex: CSV/Excel)
- ┣ 📂 imagens            # Capturas de tela utilizadas na documentação do README
- ┃  ┣ 📜 dashboard-geral.png
+ ┣ 📂 Imagens            # Capturas de tela utilizadas na documentação do README
+ ┃  ┣ 📜 dashboard completo.png
  ┃  ┣ 📜 Média de acertos de cada disciplina por bimestre.png
  ┃  ┣ 📜 Média de acertos de cada disciplina por turma.png
  ┃  ┗ 📜 média de acertos gerais da turma.png
- ┣ 📜 dashboard_desempenho.pbix  # Arquivo principal do Power BI
+ ┣ 📜 Dashboard-desempenho-PP.pbix  # Arquivo principal do Power BI
  ┗ 📜 README.md          # Documentação detalhada do projeto
+```
 
 ---
 
